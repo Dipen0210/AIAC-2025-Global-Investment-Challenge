@@ -1,5 +1,7 @@
 # AIAC 2025 Trading Competition – Dipen Prajapati
 
+# Global Investment Contest (GIC) AI-Alpha Contest
+
 Welcome to the repository showcasing my active portfolio strategy, analytics framework, and performance insights from the **AIAC 2025 Trading Competition**, where I achieved a **+16.31% return**, ranking **#37 (Top 15%)** among participants.
 
 ---
