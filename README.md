@@ -1,4 +1,4 @@
-# 🧠 AIAC 2025 Trading Competition – Dipen Prajapati
+# AIAC 2025 Trading Competition – Dipen Prajapati
 
 Welcome to the repository showcasing my active portfolio strategy, analytics framework, and performance insights from the **AIAC 2025 Trading Competition**, where I achieved a **+16.31% return**, ranking **#37 (Top 15%)** among participants.
 
@@ -8,31 +8,31 @@ Welcome to the repository showcasing my active portfolio strategy, analytics fra
 
 My trading approach was a **multi-layered, active strategy** integrating:
 
-- 📊 Technical Analysis  
-- 📉 Statistical Price Frequency Modeling  
-- 📅 Historical Seasonality  
-- 🌍 Macroeconomic Filters  
-- 💡 Behavioral & Thematic Investing  
-- 🧠 AI-inspired Decision Architecture
+-  Technical Analysis  
+-  Statistical Price Frequency Modeling  
+-  Historical Seasonality  
+-  Macroeconomic Filters  
+-  Behavioral & Thematic Investing  
+- AI-inspired Decision Architecture
 
 Each trade was idea-driven, conviction-weighted, and filtered through a **quantitative-meets-human** decision system.
 
 ---
 
-## 🧩 Core Strategy Pillars
+##  Core Strategy Pillars
 
 | Pillar                        | Highlights |
 |------------------------------|------------|
-| 📊 **Technical Analysis**     | Support/resistance, breakout confirmation, price clusters |
-| ⏳ **Historical Seasonality** | Seasonal trends validated over 3 years (e.g., DPZ, HLT) |
-| 🔢 **Price Frequency Model**  | Custom histogram of rare price levels for mean reversion/breakout |
-| 🧱 **Price Action Logic**     | Volume spikes, failed breakdowns, and candle structure |
-| 🌐 **Macro Filters**          | Sector selection based on inflation, oil, Fed cycles |
-| 📦 **Thematic Ideas**         | Travel & consumer themes (Visa, Hilton, Domino’s) based on seasonal behavior |
+|  **Technical Analysis**     | Support/resistance, breakout confirmation, price clusters |
+|  **Historical Seasonality** | Seasonal trends validated over 3 years (e.g., DPZ, HLT) |
+|  **Price Frequency Model**  | Custom histogram of rare price levels for mean reversion/breakout |
+|  **Price Action Logic**     | Volume spikes, failed breakdowns, and candle structure |
+|  **Macro Filters**          | Sector selection based on inflation, oil, Fed cycles |
+|  **Thematic Ideas**         | Travel & consumer themes (Visa, Hilton, Domino’s) based on seasonal behavior |
 
 ---
 
-## 💼 Portfolio Allocation
+##  Portfolio Allocation
 
 | Asset Class | Allocation | Rationale |
 |-------------|------------|-----------|
@@ -91,11 +91,9 @@ While no automation was used, my **decision-making logic mirrored AI models**:
 - **Event-Based Reaction**: Oil surges, CPI reports, earnings  
 - **Probability-Weighted Actions**: Seasonality and price rarity shaped conviction  
 
-> 🧠 I traded like an AI: modular, logic-driven, risk-aware, and adaptive.
-
 ---
 
-## 🧮 Example Trade Decisions
+##  Example Trade Decisions
 
 | Trade            | Signal                                       | Action         |
 |------------------|----------------------------------------------|----------------|
